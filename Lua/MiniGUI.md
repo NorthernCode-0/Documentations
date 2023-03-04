@@ -1,4 +1,4 @@
-## Mini GUI
+# Mini GUI
 
 ## **Why Mini GUI?**
 
