@@ -40,7 +40,7 @@ main:ButtonThreeProperties('Button 3', function ()
 	print('Default function')
 end)
 --<string> <function>
-main:ButtonFourProperties('Button 3', function ()
+main:ButtonFourProperties('Button 4', function ()
 	print('Default function')
 end)
 ```
