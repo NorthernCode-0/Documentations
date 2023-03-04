@@ -21,6 +21,7 @@ local lib = loadstring(game:HttpGet("https://pastebin.com/raw/Sm4esqAm"), true)(
 ### Making the window
 
 ```lua
+--<string>
 local main = lib:NewWindow("Mini Gui Example")
 ```
 
