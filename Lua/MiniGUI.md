@@ -14,8 +14,8 @@
 
 ### Loadstring
 
-```lua
-Coming soon I am dumb because I forgot about aspect ratios and stuff
+```
+Coming soon I am dumb because I forgot about aspect ratios and screen sizes
 ```
 
 ### Making the window
