@@ -15,7 +15,7 @@
 ### Loadstring
 
 ```lua
-local lib = loadstring(game:HttpGet("https://pastebin.com/raw/Sm4esqAm"), true)()
+Coming soon I am dumb because I forgot about aspect ratios and stuff
 ```
 
 ### Making the window
