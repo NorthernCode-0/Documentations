@@ -54,6 +54,6 @@ main:DestroyGUI()
 
 ---
 
-## Preview
+## Preview/Example
 
 ![](https://cdn.discordapp.com/attachments/972973453005176942/1081409982739787776/image.png)
