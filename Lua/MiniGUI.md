@@ -1,6 +1,6 @@
 ## Mini GUI
 
-## Why Mini GUI?
+## **Why Mini GUI?**
 
 - Well, you shouldn't really use this gui library
 - If you want to be limited to four buttons and ***no other types***
