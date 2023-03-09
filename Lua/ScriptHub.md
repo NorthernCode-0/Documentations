@@ -19,7 +19,7 @@ local main = lib:Window('Script Hub Gui')
 ```lua
 main:Button{
 	title = 'button', -- title
-	icon = 'rbxassetid://12727966565', -- custom icon (leave blank if you want the default)
+	icon = 'rbxassetid://12727966565', -- custom icon (remove if you want the default)
 	clickEvent = function () -- what happens when you click
 		print('clicked button')
 	end
