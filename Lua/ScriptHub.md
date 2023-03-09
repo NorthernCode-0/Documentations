@@ -30,3 +30,9 @@ main:Button{
 ```lua
 main:Exit()
 ```
+
+## Icons come from this:
+
+[Vanilla V3](https://elttob.itch.io/vanilla-3-for-roblox-studio)
+
+I ***think*** i can use them
