@@ -20,7 +20,7 @@ local main = lib:Window('Script Hub Gui')
 main:Button{
 	title = 'button', -- title
 	icon = 'rbxassetid://12727966565', -- custom icon (remove if you want the default)
-	tint = Color3.fromRGB(255,255,255) -- cusom tint (color) remove if you want default
+	tint = Color3.fromRGB(255,255,255), -- cusom tint (color) remove if you want default
 	clickEvent = function () -- what happens when you click
 		print('clicked button')
 	end
